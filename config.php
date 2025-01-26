@@ -8,11 +8,11 @@ V 0.1.0, 04-17-2011
 /*
 $server_name (string): Your server's name. Used within the website for display purpose only.
 */
-$server_name = "EO Web";
+$server_name = "EOM Web Viewer";
 /*
 $staff_name (string array): Array of staff members. Used for display on credits page.
 */
-$staff_name = array("Ethan Moffat");
+$staff_name = array("");
 /*
 $use_cache (bool): 
 	Determines behavior of loading functions. If FALSE, then each time data is requested,
